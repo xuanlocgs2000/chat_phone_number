@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "91942479460",
+    "project_id": "chatt-phone-number",
+    "storage_bucket": "chatt-phone-number.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91942479460:android:1bc8e699395415403ce171",
+        "android_client_info": {
+          "package_name": "com.example.chat_phone_number"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvD5j9V2Uqut5QkwI49M3Fy1ZtPlHO8vQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
